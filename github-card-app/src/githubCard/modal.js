@@ -34,7 +34,7 @@ function TransitionsModal(props) {
   return (
     <div>
       <button type="button" onClick={handleOpen}>
-        Github Chart
+        Github Chart!
       </button>
       <Modal
         aria-labelledby="transition-modal-title"
